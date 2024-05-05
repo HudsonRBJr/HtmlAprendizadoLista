@@ -1157,3 +1157,94 @@ padding: 10px;
 
 
 }
+
+.ex21{
+   border: double 5px gold;
+   background-color: lightgray;
+   border-top-left-radius: 10px;
+   border-bottom-left-radius: 10px;
+   border-top-right-radius: 10px;
+   border-bottom-right-radius: 10px;
+   height: 150px;
+
+
+
+
+
+
+}
+
+#botao22{
+   border-color: white;
+   background-color: gray;
+   color: black;
+
+
+
+
+
+}
+
+.index22{
+   border: double 5px black;
+   background-color: white;
+   border-top-left-radius: 10px;
+   border-bottom-left-radius: 10px;
+   border-top-right-radius: 10px;
+   border-bottom-right-radius: 10px;
+   height: 1000px;
+   padding: 10px;
+
+
+
+}
+
+#p25{
+   display: grid;
+   width: 600px;
+   padding: 10px;
+}
+
+.ex22{border: double 5px gold;
+   background-color: lightgray;
+   border-top-left-radius: 10px;
+   border-bottom-left-radius: 10px;
+   border-top-right-radius: 10px;
+   border-bottom-right-radius: 10px;
+   height: 150px;
+
+
+
+}
+
+#botao23{
+   border-color: white;
+   background-color: gray;
+   color: black;
+
+
+
+
+}
+
+
+.index23{
+   border: double 5px black;
+   background-color: white;
+   border-top-left-radius: 10px;
+   border-bottom-left-radius: 10px;
+   border-top-right-radius: 10px;
+   border-bottom-right-radius: 10px;
+   height: 1000px;
+   padding: 10px;
+
+
+
+
+}
+
+#p26{
+   display: grid;
+   width: 600px;
+   padding: 10px;
+}

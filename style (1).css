@@ -1,0 +1,1159 @@
+body{
+
+
+    background-color: lightblue;
+
+
+
+}
+
+
+
+.header1{
+background-color: lightgrey;
+border: double 5px black;
+border-top-left-radius: 10px;
+border-bottom-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-right-radius: 10px;
+height: 200px;
+
+
+
+
+
+
+}
+
+h1{
+    margin-top: -5px;
+    display: flex;
+    justify-content: center;
+   color:green;
+}
+
+
+p1 strong{
+    color: green;
+    display: flex;
+}
+
+.umadiv{
+
+border: double 5px gold;
+background-color: lightgray;
+border-top-left-radius: 10px;
+border-bottom-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-right-radius: 10px;
+height: 150px;
+
+
+
+}
+
+#botao1{
+
+    border-color: green;
+    background-color: lightgreen;
+    color: black;
+
+}
+
+.outradiv{
+
+    border: double 5px gold;
+    background-color: lightgray;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    height: 150px;
+
+}
+
+
+#botao2{
+
+    border-color: purple;
+    background-color: lightpink;
+    color: black;
+
+}   
+
+
+.div2{
+    border: double 5px black;
+    background-color: white;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    height: 1000px;
+    padding: 10px;
+    
+    
+    
+    
+    
+    }
+    
+    p5{
+        color: black;
+        display: grid ;
+        width: 600px;
+    
+    
+    
+    }
+    
+    #img2{
+    
+    
+        width: 1000px;
+        height: 600px;
+        position: absolute;
+    
+    
+    
+    }
+
+    
+
+.opadiv{
+
+    border: double 5px black;
+    background-color: white;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    height: 1000px;
+    padding: 10px;
+
+
+
+}
+
+p1{
+
+    color: black;
+    display: grid ;
+    width: 600px;
+
+
+}
+
+
+
+
+.opadiv{
+
+    border: double 5px black;
+    background-color: white;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    height: 1000px;
+    padding: 10px;
+
+
+
+
+}
+
+p1{
+
+    color: black;
+    display: grid ;
+    width: 600px;
+
+
+}
+
+
+.rolo{
+
+    border: double 5px gold;
+background-color: lightgray;
+border-top-left-radius: 10px;
+border-bottom-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-right-radius: 10px;
+height: 150px;
+
+
+}
+
+#botao3{
+
+    border-color: brown;
+    background-color: lightcoral;
+    color: black;
+
+
+}
+
+
+.popo{
+    border: double 5px black;
+    background-color: white;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    height: 1000px;
+    padding: 10px;
+
+
+
+}
+
+p7{
+
+    color: black;
+    display: grid ;
+    width: 600px;
+
+
+
+}
+
+
+.compressor{
+    border: double 5px gold;
+    background-color: lightgray;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    height: 150px;
+
+
+
+
+}
+
+#botao4{
+    border-color: red;
+    background-color: lightsalmon;
+    color: black;
+
+
+
+}
+
+
+
+.merda{
+    border: double 5px black;
+    background-color: white;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    height: 1000px;
+    padding: 10px;
+
+
+
+}
+
+
+p8{
+color: black;
+display: grid;
+width: 600px;
+
+
+
+}
+
+#apenaso1h{
+
+color: black;
+display: flex;
+justify-content: start;
+
+
+
+}
+
+    .esforco{
+        border: double 5px gold;
+        background-color: lightgray;
+        border-top-left-radius: 10px;
+        border-bottom-left-radius: 10px;
+        border-top-right-radius: 10px;
+        border-bottom-right-radius: 10px;
+        height: 150px;
+    
+
+
+
+    }
+
+    #botao5{
+        border-color: red;
+        background-color: lightsalmon;
+        color: black;
+
+
+
+    }
+
+    .ex5{
+        border: double 5px black;
+        background-color: white;
+        border-top-left-radius: 10px;
+        border-bottom-left-radius: 10px;
+        border-top-right-radius: 10px;
+        border-bottom-right-radius: 10px;
+        height: 1000px;
+        padding: 10px;
+
+
+
+
+
+    }
+
+
+
+            #polenta{
+                display: grid;
+                width: 600px;
+
+
+
+
+            }
+
+
+
+  .ex6{
+    border: double 5px gold;
+    background-color: lightgray;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    height: 150px;
+
+
+
+
+
+
+  }    
+  
+  
+
+ #botao6{
+
+    border-color: lightgoldenrodyellow;
+    background-color: lightsalmon;
+    color: black;
+
+
+
+
+
+ } 
+
+
+
+ .index7{
+    border: double 5px black;
+    background-color: white;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    height: 1000px;
+    padding: 10px;
+
+
+
+
+ }
+
+
+ #letra{
+display: grid;
+width: 600px;
+padding: 10px;
+
+
+
+    
+ }
+
+
+ .ex7{
+
+    border: double 5px gold;
+    background-color: lightgray;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    height: 150px;
+
+
+
+
+
+
+ }
+
+
+
+ #botao7{
+
+    border-color: white;
+    background-color: gray;
+    color: black;
+
+
+
+
+
+ }
+
+ .index8{
+
+    border: double 5px black;
+    background-color: white;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    height: 1000px;
+    padding: 10px;
+
+
+
+
+
+ }
+
+ #p11{
+    display: grid;
+    width: 600px;
+    padding: 10px;
+
+
+
+
+ }
+
+
+ .ex8{
+    border: double 5px gold;
+    background-color: lightgray;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    height: 150px;
+
+
+
+
+ }
+
+ #botao8{
+
+    border-color: white;
+    background-color: gray;
+    color: black;
+
+
+
+
+
+ }
+ 
+ .index9{
+    border: double 5px black;
+    background-color: white;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    height: 1000px;
+    padding: 10px;
+
+
+
+ }
+
+
+
+
+ #p12{
+
+    display: grid;
+    width: 600px;
+    padding: 10px;
+
+
+
+
+ }
+ 
+ .ex9{
+    border: double 5px gold;
+    background-color: lightgray;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    height: 150px;
+
+
+
+
+ }
+
+
+ #botao10{
+
+    border-color: white;
+    background-color: gray;
+    color: black;
+   
+
+
+
+
+
+
+ }
+
+ .index10{
+    border: double 5px black;
+    background-color: white;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    height: 1000px;
+    padding: 10px;
+
+
+
+
+
+ }
+
+ #p13{
+
+    display: grid;
+    width: 600px;
+    padding: 10px;
+
+
+
+ }
+
+ .ex10{
+
+    border: double 5px gold;
+    background-color: lightgray;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    height: 150px;
+
+
+ }
+ 
+ #botao11{
+
+    border-color: white;
+    background-color: gray;
+    color: black;
+    position: absolute;
+  
+
+
+
+
+
+ }
+
+
+ .index11{
+
+    border: double 5px black;
+    background-color: white;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    height: 1000px;
+    padding: 10px;
+
+
+
+ }
+ 
+ 
+ #p14{
+
+    display: grid;
+    width: 600px;
+    padding: 10px;
+
+
+ }
+
+ .ex11{
+
+    border: double 5px gold;
+    background-color: lightgray;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    height: 150px;
+
+
+
+
+ }
+
+ #botao12{
+
+    border-color: white;
+    background-color: gray;
+    color: black;
+
+
+
+ 
+
+
+
+
+
+ }   
+
+
+.index12{
+    border: double 5px black;
+    background-color: white;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    height: 1000px;
+    padding: 10px;
+
+
+
+
+}
+
+ 
+
+ #p15{
+
+
+    display: grid;
+    width: 600px;
+    padding: 10px;
+
+
+
+ }
+
+ .ex12{
+    border: double 5px gold;
+    background-color: lightgray;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    height: 150px;
+
+
+
+
+
+ }
+
+
+ #botao13{
+
+
+
+    border-color: white;
+    background-color: gray;
+    color: black;
+
+
+
+ }
+
+
+ .index13{
+    border: double 5px black;
+    background-color: white;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    height: 1000px;
+    padding: 10px;
+
+
+
+
+ }
+
+
+ #p16{
+
+
+    display: grid;
+    width: 600px;
+    padding: 10px;
+
+
+
+
+
+ }
+
+
+ .ex13{
+
+
+    border: double 5px gold;
+    background-color: lightgray;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    height: 150px;
+
+
+
+ }
+
+
+
+ #botao14{
+    border-color: white;
+    background-color: gray;
+    color: black;
+
+
+
+
+ }
+
+ .index14{
+    border: double 5px black;
+    background-color: white;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    height: 1000px;
+    padding: 10px;
+
+
+
+
+ }
+
+
+
+
+ #p17{
+
+    display: grid;
+    width: 600px;
+    padding: 10px;
+
+
+
+ }
+
+
+ .ex14{
+
+    border: double 5px gold;
+    background-color: lightgray;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    height: 150px;
+
+
+
+
+
+
+ }
+
+ #botao15{
+    border-color: white;
+    background-color: gray;
+    color: black;
+
+
+
+ }
+
+
+
+ .index15{
+    border: double 5px black;
+    background-color: white;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    height: 1000px;
+    padding: 10px;
+
+
+
+
+
+
+ }
+
+
+
+ #p18{
+    display: grid;
+    width: 600px;
+    padding: 10px;
+
+
+
+
+ }
+
+
+ .ex15{
+    border: double 5px gold;
+    background-color: lightgray;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    height: 150px;
+
+
+
+
+
+ }
+
+
+ #botao16{
+    border-color: white;
+    background-color: gray;
+    color: black;
+
+
+
+
+ }
+
+
+
+ .index16{
+    border: double 5px black;
+    background-color: white;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    height: 1000px;
+    padding: 10px;
+
+
+
+
+
+ }
+
+
+ #p19{
+
+    display: grid;
+    width: 600px;
+    padding: 10px;
+ }
+
+ .ex16{
+
+   border: double 5px gold;
+   background-color: lightgray;
+   border-top-left-radius: 10px;
+   border-bottom-left-radius: 10px;
+   border-top-right-radius: 10px;
+   border-bottom-right-radius: 10px;
+   height: 150px;
+
+
+
+
+ }
+
+#botao17{
+   border-color: white;
+   background-color: gray;
+   color: black;
+
+
+
+
+}
+
+#p20{
+
+   display: grid;
+   width: 600px;
+   padding: 10px;
+
+
+
+
+
+}
+
+
+
+.ex17{
+
+   border: double 5px gold;
+   background-color: lightgray;
+   border-top-left-radius: 10px;
+   border-bottom-left-radius: 10px;
+   border-top-right-radius: 10px;
+   border-bottom-right-radius: 10px;
+   height: 150px;
+
+
+
+
+
+}
+
+
+#botao18{
+
+   border-color: white;
+   background-color: gray;
+   color: black;
+}
+
+.index18{
+   border: double 5px black;
+   background-color: white;
+   border-top-left-radius: 10px;
+   border-bottom-left-radius: 10px;
+   border-top-right-radius: 10px;
+   border-bottom-right-radius: 10px;
+   height: 1000px;
+   padding: 10px;
+
+
+
+}
+
+
+
+
+#p21{
+
+   display: grid;
+   width: 600px;
+   padding: 10px;
+
+
+
+}
+
+.ex18{
+   border: double 5px gold;
+   background-color: lightgray;
+   border-top-left-radius: 10px;
+   border-bottom-left-radius: 10px;
+   border-top-right-radius: 10px;
+   border-bottom-right-radius: 10px;
+   height: 150px;
+
+
+
+
+
+}
+
+#botao19{
+   border-color: white;
+   background-color: gray;
+   color: black;
+
+
+
+
+
+   
+}
+
+
+.index19{
+   border: double 5px black;
+   background-color: white;
+   border-top-left-radius: 10px;
+   border-bottom-left-radius: 10px;
+   border-top-right-radius: 10px;
+   border-bottom-right-radius: 10px;
+   height: 1000px;
+   padding: 10px;
+
+
+
+
+
+
+
+}
+
+#p22{
+
+   display: grid;
+   width: 600px;
+   padding: 10px;
+
+
+
+
+
+
+}
+
+
+.ex19{
+   border: double 5px gold;
+   background-color: lightgray;
+   border-top-left-radius: 10px;
+   border-bottom-left-radius: 10px;
+   border-top-right-radius: 10px;
+   border-bottom-right-radius: 10px;
+   height: 150px;
+
+
+
+
+
+}
+
+#botao20{
+   border-color: white;
+   background-color: gray;
+   color: black;
+
+
+
+
+}
+
+
+
+
+
+
+.index20{
+   border: double 5px black;
+   background-color: white;
+   border-top-left-radius: 10px;
+   border-bottom-left-radius: 10px;
+   border-top-right-radius: 10px;
+   border-bottom-right-radius: 10px;
+   height: 1000px;
+   padding: 10px;
+
+
+
+
+
+
+}
+
+
+#p23{
+
+   display: grid;
+   width: 600px;
+   padding: 10px;
+
+
+
+}
+
+
+.ex20{
+   border: double 5px gold;
+   background-color: lightgray;
+   border-top-left-radius: 10px;
+   border-bottom-left-radius: 10px;
+   border-top-right-radius: 10px;
+   border-bottom-right-radius: 10px;
+   height: 150px;
+
+
+
+
+
+
+}
+
+#botao21{
+   border-color: white;
+   background-color: gray;
+   color: black;
+
+
+}
+
+.index21{
+   border: double 5px black;
+   background-color: white;
+   border-top-left-radius: 10px;
+   border-bottom-left-radius: 10px;
+   border-top-right-radius: 10px;
+   border-bottom-right-radius: 10px;
+   height: 1000px;
+   padding: 10px;
+
+
+
+
+
+}
+
+
+#p24{
+
+   display: grid;
+   width: 600px;
+   padding: 10px;
+
+
+
+
+}
